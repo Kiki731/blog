@@ -1,0 +1,37 @@
+.showcase-section{
+  background-image: url(../img/fine.jpg);
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat:no-repeat
+}
+.showcase-section .writeup h1{ 
+  text-align: center;
+
+}
+.showcase-section .writeup p{
+  text-align: center;
+  font-size: 15px;
+}
+.showcase-section .writeup{
+  max-width: 50%;
+  padding-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.cards-heading h1{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+} 
+.card-body img{
+  width: 30px;
+}
+
+.cards-utilities span{
+  border-top: 2px solid rgb(255, 208, 0);
+  font-size: 20px;
+}
